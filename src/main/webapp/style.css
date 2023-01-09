@@ -1,0 +1,18 @@
+@charset "ISO-8859-1";
+#container{
+	height: 400px;
+	display : flex;
+	align-items: flex-end;
+}
+
+body{
+	display:flex;
+	align-items:center;
+	flex-direction:column;
+}
+
+.bar{
+	width:40px;
+	background-color:black;
+	margin:5px;
+}
